@@ -6,7 +6,7 @@
     2.2. [Sensirion SPS30](https://binh-bk.github.io/Sensirion_SPS30/)  
     2.3. [Plantower PMS](https://binh-bk.github.io/pms7003/)  
     2.4. [Winsen ZH03B](https://github.com/binh-bk/ZH03B)  
-3. [Visual Airnow.gov data by Dash app](https://binh-bk.github.io/airnow-visualize/)
+3. [Visualize Airnow.gov data by Dash app](https://binh-bk.github.io/airnow-visualize/)
 4. [Read data from Dylos DC1100/DC1700](https://binh-bk.github.io/rs232-dylos/)  
 5. [Collection of Arduino code for IoT devices](https://binh-bk.github.io/arduinos/)  
 6. [Build a photo-bio-reactor to grow microalgae](https://binh-bk.github.io/advanced-bioreactor/)  
